@@ -1,0 +1,754 @@
+//Other words
+<和><hé><and,with><SP1>
+<学生><xuéshēng><student><SP1>
+<校园><xiàoyuán><campus><SP1>
+<留学生><liúxuéshēng><exchange student,student studying abroad,overseas student><SP1,Lesson11>
+<见面><jiànmiàn><to meet,meet><SP1>
+<姓><xìng><surname,family name><SP1,Lesson06>
+<叫><jiào><call,to call,to name><SP1,Lesson06>
+<名字><míngzi><name><SP1,Lesson06>
+<办公室><bàngōngshì><office><SP1,Lesson10>
+<欢迎><huānyíng><to welcome,welcome><SP1>
+<来><lái><to come><SP1>
+<食堂><shítáng><dining hall><SP1,Lesson07>
+<又><yòu><again><SP1>
+<同学><tóngxué><classmate><SP1>
+<也><yě><also,too><SP1>
+<人><rén><person,human,man><SP1,Lesson06>
+Other random
+<机器人><jīqìrén><robot><Technical>
+<机><jī><machine><Technical>
+<电><diàn><electricity><Technical>
+<电机><diànjī><motor,electrcal motor><Technical>
+<电池><diànchí><battery><Technical>
+<电压><diànyā><voltage><Technical>
+<电流><diànliú><electric current,current><Technical>
+<电阻><diànzǔ><resistance><Technical>
+<电容><diànróng><capacitance><Technical>
+<光二极管><guāng èrjíguǎn><led,light emitting diode><Technical>
+<晶体管><Jīngtǐguǎn><transistor><Technical>
+<瑞典语><ruìdiǎnyǔ><swedish><Language>
+Animals
+<鸡><jī><chicken,hen,cock><Animal,Lesson07>
+<牛><niú><cow><Animal>
+<猪><zhū><pig><Animal>
+<狗><gǒu><dog><Animal>
+<猫><māo><cat><Animal>
+Lesson01
+<你好><nǐ hǎo><hello,how are you><Lesson01>
+<你><nǐ><you><Lesson01>
+<好><hǎo><good><Lesson01>
+<一><yī><one,1><Lesson01,Number>
+<五><wǔ><five,5><Lesson01,Number>
+<八><bā><eight,8><Lesson01,Number>
+<不><bù><not><Lesson01>
+<口><kǒu><mouth><Lesson01>
+<白><bái><white><Lesson01,color>
+<女><nǚ><female,woman><Lesson01>
+<马><mǎ><horse><Lesson01,Animal>
+Lesson02
+<忙><máng><busy><Lesson02>
+<吗><ma><end of question,?,particle><Lesson02>
+<很><hěn><very><Lesson02>
+<汉语><hànyǔ><chinese,chinese language><Lesson02>
+<难><nán><hard,difficult><Lesson02>
+<太><tài><excessively,too,over><Lesson02>
+<爸爸><bàba><dad,father><Lesson02>
+<妈妈><māmā><mum,mother><Lesson02>
+<他><tā><he,him><Lesson02>
+<她><tā><she,her><Lesson02>
+<男><nán><male,man><Lesson02>
+<哥哥><gēgē><older brother,big brother,elder brother><Lesson02>
+<弟弟><dìdì><younger brother,little brother><Lesson02>
+<妹妹><mèimei><younger sister,little sister><Lesson02>
+Lesson03
+<学><xué><to learn,to study,learn,study><Lesson03>
+<英语><yīngyǔ><spoken english,english><Lesson03,Language>
+<阿拉伯语><Ālābóyǔ><spoken arabic,arabic><Lesson03,Language>
+<德语><déyǔ><spoken german,german><Lesson03,Language>
+<俄语><Èyǔ><spoken russian,russian><Lesson03,Language>
+<法语><fǎyǔ><spoken french,french><Lesson03,Language>
+<韩国语><hánguóyǔ><spoken korean,korean><Lesson03,Language>
+<日语><rìyǔ><spoken japanese,japanese><Lesson03,Language>
+<西班牙语><xībānyáyǔ><spoken spanish,spanish><Lesson03,Language>
+<对><duì><right,ok,correct,true><Lesson03>
+<明天><míngtiān><tomorrow><Lesson03,Time>
+<见><jiàn><to see,see><Lesson03>
+<去><qù><to go,go><Lesson03>
+<邮局><yóujú><post office><Lesson03,Places>
+<寄><jì><to post,to mail,to send by mail,post,mail><Lesson03>
+<信><xìn><letter,mail><Lesson03>
+<银行><yínháng><bank><Lesson03,Places>
+<取><qǔ><to draw,draw><Lesson03>
+<钱><qián><money><Lesson03>
+<六><liù><six,6><Lesson03,Number>
+<七><qī><seven,7><Lesson03,Number>
+<九><jiǔ><nine,9><Lesson03,Number>
+Lesson 4
+<今天><Jīntiān><today><Lesson04,Time>
+<天><Tiān><day><Lesson04,Time>
+<昨天><Zuótiān><yesterday><Lesson04,Time>
+<星期><Xīngqí><week><Lesson04,Time,Time>
+<星期一><Xīngqíyī><monday><Lesson04,Time>
+<星期二><Xīngqíèr><tuesday><Lesson04,Time>
+<星期三><Xīngqísān><wednesday><Lesson04,Time>
+<星期四><Xīngqísì><thursday><Lesson04,Time>
+<星期五><Xīngqíwǔ><friday><Lesson04,Time>
+<星期六><xīngqíliù><saturday><Lesson04,Time>
+<星期天><Xīngqítiān><sunday><Lesson04,Time>
+<几><Jǐ><how many,what,several><Lesson04>
+<二><Èr><two,2><Lesson04,Number>
+<三><Sān><three,3><Lesson04,Number>
+<四><Sì><four,4><Lesson04,Number>
+<哪儿><Nǎr><where><Lesson04>
+<那儿><Nàr><there><Lesson04>
+<我><Wǒ><i,me><Lesson04>
+<回><Huí><to go back,go back,to return,return><Lesson04>
+<学校><Xuéxiào><school><Lesson04,Places>
+<再见><Zàijiàn><goodbye><Lesson04>
+<对不起><Duìbùqǐ><i am sorry,im sorry,sorry,excuse me><Lesson04>
+<没关系><Méiguānxì><thats all right,its all right,doesnt matter,dont mind,do not matter,does not matter><Lesson04>
+Lesson 5
+<这><Zhè><this><Lesson05>
+<是><Shì><to be,am,are,is,be><Lesson05>
+<老师><Lǎoshī><teacher><Lesson05,Profession>
+<您><Nín><you><Lesson05>
+<请><Qǐng><please><Lesson05>
+<进><Jìn><to enter,to come in,enter,come in><Lesson05>
+<坐><Zuò><to sit,sit><Lesson05>
+<喝><Hē><to drink,drink><Lesson05>
+<茶><Chá><tea><Lesson05>
+<谢谢><Xièxiè><to thank,thanks,thank you><Lesson05>
+<不客气><Bù kèqì><you are welcome,youre welcome,you're welcome><Lesson05>
+<客气><Kèqì><polite,courteous><Lesson05>
+<工作><Gōngzuò><to work,work><Lesson05>
+<身体><Shēntǐ><health,body><Lesson05>
+<十><Shí><ten,10><Lesson05,Number>
+<日><Rì><sun,day><Lesson05>
+Lesson 6
+<请问><Qǐngwèn><excuse me><Lesson06>
+<问><Wèn><to ask,to enquire,ask,enquire><Lesson06>
+<贵姓><Guìxìng><may i know your name,what is your name,may i ask your name,may i know your surname,may i ask your surname,what is your surname><Lesson06>
+<哪><Nǎ><which,where><Lesson06>
+<国><Guó><country,nationality><Lesson06>
+<中国><Zhōngguó><china><Lesson06>
+<德国><Déguó><germany><Lesson06>
+<俄国><Èguó><russia><Lesson06>
+<法国><Fǎguó><france><Lesson06>
+<韩国><Hánguó><korea><Lesson06>
+<美国><Měiguó><usa,USA><Lesson06>
+<日本><Rìběn><japan><Lesson06>
+<英国><Yīngguó><england,britain,uk,UK><Lesson06>
+<学习><Xuéxí><to learn,study,learn,study><Lesson06>
+<汉字><Hànzì><chinese characters,chinese character><Lesson06>
+<发音><Fāyīn><pronunciation,to pronounce,pronounce><Lesson06>
+<什么><Shénme><what><Lesson06,SP1>
+<书><Shū><book><Lesson06>
+<谁><Shuí/Shéi><who><Lesson06>
+<那><Nà><that><Lesson06>
+<杂志><Zázhì><magazine><Lesson06>
+<文><Wén><written language,language><Lesson06>
+<中文><Zhōngwén><written chinese,chinese><Lesson06>
+<阿拉伯文><Ālābówén><written arabic,arabic><Lesson06,Language>
+<德文><Déwén><written german,german><Lesson06,Language>
+<俄文><Èwén><written russian,russian><Lesson06,Language>
+<法文><Fǎwén><written french,french><Lesson06,Language>
+<韩文><Hánwén><written korean,korean><Lesson06,Language>
+<日文><Rìwén><written japanese,japanese><Lesson06,Language>
+<西班牙文><Xībānyáwén><written spanish,spanish><Lesson06,Language>
+<英文><Yīngwén><written english,english><Lesson06,Language>
+<朋友><Péngyou><friend><Lesson06>
+Lesson07
+<中午><zhōngwǔ><noon><Lesson07>
+<吃><chī><to eat,eat><Lesson07>
+<饭><fàn><meal,food><Lesson07>
+<馒头><mántou><mantou,steamed bun><Lesson07>
+<米饭><mǐfàn><rice,steamed rice,cooked rice,boiled rice><Lesson07>
+<要><yào><to want,to desire,want,desire,to wish,wish><Lesson07,Lesson09>
+<碗><wǎn><bowl><Lesson07>
+<鸡蛋><jīdàn><egg,chicken egg><Lesson07>
+<蛋><dàn><egg><Lesson07>
+<汤><tāng><soup><Lesson07>
+<啤酒><píjiǔ><beer><Lesson07>
+<酒><jiǔ><alcoholic drink,spirits><Lesson07>
+<这些><zhèxiē><these><Lesson07>
+<些><xiē><some><Lesson07>
+<一些><yìxiē><some,a few,a little><Lesson07>
+<那些><nàxiē><those><Lesson07>
+<包子><bāozi><baozi><Lesson07>
+<面条><miàntiáo><noodle><Lesson07>
+<玛丽><mǎlì><mary><Lesson07>
+Lesson08
+<卖><mài><sell><Lesson08>
+<买><mǎi><buy><Lesson08>
+<水果><shuǐguǒ><fruit><Lesson08>
+<苹果><píngguǒ><apple><Lesson08>
+<斤><jīn><500g,weight><Lesson08>
+<公斤><gōngjīn><kilogram,kilo,kg><Lesson08>
+<贵><guì><expensive><Lesson08>
+<了><le><modal particle,particle><Lesson08>
+<吧><ba><a request particle,particle><Lesson08>
+<多少><duōshao><how much,how many><Lesson08>
+<多><duō><many,a lot of,several><Lesson08>
+<少><shao><few,little,less><Lesson08>
+<快><kuài><yuan><Lesson08>
+<角><jiāo><10% of a yuan,yuan/10><Lesson08>
+<分><fēn><1% of a yuan,yuan/100><Lesson08>
+<还><hái><also,in addition,still><Lesson08>
+<别的><biéde><other,others><Lesson08>
+<橘子><júzi><orange><Lesson08>
+<怎么><zěnme><how><Lesson08>
+<两><liǎng><two,2,pair><Lesson08>
+<一共><yígòng><altogether><Lesson08>
+<给><gěi><to give,give><Lesson08>
+<找><zhǎo><to give change,give change,to look for,look for><Lesson08,Lesson10>
+Lesson09
+<下午><xiàwǔ><afternoon><Lesson09,Time>
+<上午><shàngwǔ><morning><Lesson09,Time>
+<图书馆><túshūguǎn><library><Lesson09>
+<换><huàn><to change,to exchange,change,exchange><Lesson09>
+<小姐><xiǎojiě><miss><Lesson09>
+<营业员><yíngyèyuán><shop employee><Lesson09>
+<人民币><rénmínbì><renminbi,rmb,RMB><Lesson09>
+<人民><rénmín><people><Lesson09>
+<百><bǎi><hundred,100><Lesson09,Number>
+<千><qiān><thousand,1000><Lesson09,Number>
+<万><wàn><ten thousand,10000><Lesson09,Number>
+<美元><měiyuán><US dollar,us dollar,dollar,usd,USD><Lesson09>
+<港币><gǎngbì><Hong Kong dollar,hong kong dollar,hk dollar><Lesson09>
+<日元><rìyuán><japanese yen,yen><Lesson09>
+<欧元><Ōuyuán><euro><Lesson09>
+<等><děng><to wait,wait><Lesson09>
+<一会儿><Yíhuìr><a little while,little while><Lesson09>
+<先生><Xiānsheng><mister,mr,sir><Lesson09>
+<数><Shù><to count,count><Lesson09>
+Lesson10
+<办公><bàngōng><to work in an office,to work,work><Lesson10>
+<职员><zhíyuán><employee,office worker><Lesson10>
+<在><zài><to be in,to be at,in,at,be in,be at><Lesson10>
+<家><jiā><home,family><Lesson10>
+<呢><ne><particle in end of a declarative sentence,particle><Lesson10>
+<住><zhù><to live,live><Lesson10>
+<楼><lóu><building><Lesson10>
+<门><mén><door,gate><Lesson10>
+<房间><fángjiān><room><Lesson10>
+<号><hào><number><Lesson10>
+<知道><zhīdào><to know,know><Lesson10>
+<电话><diànhuà><telephone,phone><Lesson10,Technical>
+<电><diàn><electricity><Lesson10>
+<话><huà><words,speech><Lesson10>
+<号码><hàomǎ><number><Lesson10>
+<零><líng><zero,0><Lesson10,Number>
+<手机><shǒujī><cellphone,mobile><Lesson10,Technical>
+<手><shǒu><hand><Lesson10>
+Lesson11
+<秘书><mìshū><secretary><Lesson11>
+<先><xiān><first,earlier,late><Lesson11>
+<介绍><jièshào><to introduce,introduce><Lesson11>
+<一下儿><yīxiàr><a number measure word indicating an action,measure word,try,classifier><Lesson11>
+<位><wèi><a classifier used before people,classifier><Lesson11>
+<教授><jiàoshòu><professor><Lesson11>
+<校长><xiàozhǎng><president,principal><Lesson11>
+<欢迎><huānyíng><to welcome,welcome,to greet,greet><Lesson11>
+<留学><liúxué><to study abroad,study abroad><Lesson11>
+<也><yě><also,too,either><Lesson11>
+<我们><wǒmen><we,us><Lesson11>
+<你们><nǐmen><you (plural),you><Lesson11>
+<他们><tāmen><they,them><Lesson11>
+<都><dōu><all,both><Lesson11>
+<和><hé><and><Lesson11,Lesson12>
+<俩><liǎ><pair,two,2><Lesson11>
+<学生><xuésheng><student><Lesson11>
+<没什么><méi shénme><do not matter,never to mind,never mind,doesnt matter,does not matter><Lesson11>
+Lesson12
+<语言><yǔyán><language><Lesson12>
+<大学><dàxué><university><Lesson12>
+<怎么样><zěnmeyàng><how,what about><Lesson12>
+<觉得><juéde><to feel,feel,to think,think><Lesson12>
+<语法><yǔfǎ><grammar><Lesson12>
+<听><tīng><to listen,listen><Lesson12>
+<比较><bǐjiào><relatively,to compare,compare><Lesson12>
+<容易><róngyì><easy><Lesson12>
+<读><dú><to read,read><Lesson12>
+<写><xiě><to write,write><Lesson12>
+<但是><dànshì><but><Lesson12>
+<给><gěi><to,for><Lesson12>
+<新><xīn><new><Lesson12>
+<同学><tóngxué><classmate,schoolmate><Lesson12>
+<同屋><tóngwū><roommate><Lesson12>
+<班><bān><class><Lesson12>
+Lesson13
+<没有><méiyǒu><have not,not yet,did not,dont have><Lesson13>
+<箱子><xiāngzi><box,case,trunk><Lesson13>
+<有><yǒu><to have,have><Lesson13>
+<这儿><zhèr><here><Lesson13>
+<重><zhòng><heavy><Lesson13>
+<黑><hēi><the color black,black><Lesson13,color>
+<红><hóng><the color red,red><Lesson13,color>
+<轻><qīng><light><Lesson13>
+<旧><jiù><old (as opposed to new),old,used><Lesson13>
+<药><yào><medicine,drug><Lesson13>
+<中药><zhōngyào><chinese medicine><Lesson13>
+<西药><xīyào><western medicine><Lesson13>
+<茶叶><cháyè><tea leaves><Lesson13>
+<里><lǐ><inside><Lesson13>
+<日用品><rìyòngpǐn><daily necessities,daily goods><Lesson13>
+<件><jiàn><classifier (article/piece),article,piece,classifier><Lesson13>
+<衣服><yīfu><clothes><Lesson13>
+<把><bǎ><classifier used for a tool with a handle,classifier><Lesson13>
+<雨伞><yǔsǎn><umbrella><Lesson13>
+<雨><yǔ><rain><Lesson13>
+<瓶><píng><bottle><Lesson13>
+<香水><xiāngshuǐ><perfume><Lesson13>
+<水><shuǐ><water><Lesson13>
+<本><běn><classifier for books,classifier><Lesson13>
+<词典><cídiǎn><dictionary><Lesson13>
+<张><zhāng><piece; sheet (paper/drawing),piece,sheet><Lesson13>
+<光盘><guāngpán><cd,vcd,dvd><Lesson13,Technical>
+<支><zhī><classifier for pen/pencil etc,classifier><Lesson13>
+<笔><bǐ><pen,pencil,writing brush><Lesson13>
+Lesson14
+<经理><jīnglǐ><manager><Lesson14>
+<好久><hǎojiǔ><(for) a long time,a long time,long time,for><Lesson14>
+<啊><à><(all right!; aha!; ah!,all right,aha,ah><Lesson14>
+<马马虎虎><mǎmǎhūhū><so so><Lesson14>
+<最近><zuìjìn><recently; in the near future,recently,in te near future><Lesson14>
+<刚><gāng><just now; a short while ago,just now,a short while ago><Lesson14>
+<开学><kāixué><term begins><Lesson14>
+<开><kāi><to begin,to open,begin,open><Lesson14>
+<有(一)点儿><yǒu(yì)diǎnr><a little,slightly,little><Lesson14>
+<点儿><diǎnr><classifier a little,classifier><Lesson14>
+<还是><háishi><or><Lesson14>
+<咖啡><kāfēi><coffee><Lesson14>
+<杯><bēi><cup><Lesson14>
+<车><chē><vehicle><Lesson14>
+<自行车><zìxíngchē><bicycle,bike><Lesson14>
+<汽车><qìchē><car,bus,auto><Lesson14>
+<摩托车><mótuōchē><motorcycle,motorbike,scooter><Lesson14>
+<出租车><chūzūchē><taxi><Lesson14>
+<颜色><yánsè><color,colour><Lesson14>
+<蓝><lán><blue><Lesson14>
+<辆><liàng><classifier for vehicles,classifier><Lesson14>
+Lesson15
+<全><quán><whole,all,wholly><Lesson15>
+<照片><zhàopiàn><photo><Lesson15>
+<看><kàn><to look at,look at,to watch,watch,to read,read,to see,see><Lesson15>
+<姐姐><jiějie><elder sister,older sister,bigger sister><Lesson15>
+<只><zhǐ><only,just,merely><Lesson15>
+<做><zuò><to do,do><Lesson15>
+<大夫><dàifu><doctor><Lesson15>
+<医院><yīyuàn><hospital><Lesson15>
+<公司><gōngsī><company><Lesson15>
+<商店><shāngdiàn><shop><Lesson15>
+<律师><lǜshī><lawyer><Lesson15>
+<外贸><wàimào><foreign trade><Lesson15>
+<小><xiǎo><small><Lesson15>
+<大概><dàgài><about,approximately,general idea><Lesson15>
+<多><duō><(after a number) more; over; odd;,more,over,odd><Lesson15>
+<外国><wàiguó><foreign><Lesson15>
+Lesson16
+<现在><xiànzài><now><Lesson16>
+<跟><gēn><with; to follow,with,follow,to follow><Lesson16>
+<一起><yīqǐ><together><Lesson16>
+<咱们><zánmen><we; us,we,us><Lesson16>
+<走><zǒu><to walk; to go,to walk,to go,walk,go><Lesson16>
+<常(常),常><cháng (cháng)><often; usually; frequently,often,usually,frequently><Lesson16>
+<有时候><yǒu shíhou><sometimes,now and then><Lesson16>
+<时候><shíhou><time><Lesson16>
+<借><jiè><to borrow,to lend,borrow,lend><Lesson16>
+<上网><shàngwǎng><to log on; to surf the Internet,to log on,log on,to surf,surf><Lesson16>
+<网><wǎng><net,Internet,internet><Lesson16>
+<查><chá><to check; to look up,to check,to look up,check,look up><Lesson16>
+<资料><zīliào><material; data,material,data><Lesson16>
+<总(是),总><zǒng(shì)><always><Lesson16>
+<安静><ānjìng><quiet,peaceful,calm,silent><Lesson16>
+<晚上><wǎnshàng><evening><Lesson16>
+<复习><fùxí><to review,review,revise><Lesson16>
+<课文><kèwén><text><Lesson16>
+<预习><yùxí><to preview,preview,prepare><Lesson16>
+<生词><shēngcí><new words><Lesson16>
+<或者><huòzhě><or><Lesson16>
+<练习><liànxí><to practice,to exercise,practice,exercise><Lesson16>
+<聊天儿><liáotiānr><to chat,chat><Lesson16>
+<收发><shōufā><to receive and dispatch (letter),receive and dispatch,receive and send,get and send><Lesson16>
+<收><shōu><to receive,receive,to accept,accept,get><Lesson16>
+<发><fā><to dispatch,dispatch,to send out,send out,send><Lesson16>
+<伊妹儿><yīmèir><e-mail,email><Lesson16>
+<电影><diànyǐng><film,movie><Lesson16>
+<电视剧><diànshìjù><TV drama,TV play,tv drama,tv play><Lesson16>
+<电视><diànshì><TV,television,tv><Lesson16>
+<休息><xiūxí><to rest,rest,break><Lesson16>
+<宿舍><sùshè><dormitory><Lesson16>
+<公园><gōngyuán><park><Lesson16>
+<超市><chāoshì><supermarket><Lesson16>
+<东西><dōngxi><thing><Lesson16>
+Lesson17
+<在><zài><in the process of,in the course of><Lesson17>
+<出来><chūlái><to move from inside to outside,move out,move from inside to outside><Lesson17>
+<来><lái><to come,come><Lesson17>
+<正在><zhèngzài><in the process of,in the course of,doing><Lesson17>
+<音乐><yīnyuè><music><Lesson17>
+<没有><méiyǒu><have not,did not><Lesson17>
+<正><zhèng><be doing,just,just now,right,straight><Lesson17>
+<录音><lùyīn><recording,to record,record><Lesson17>
+<事><shì><matter,thing,business,accident><Lesson17>
+<书店><shūdiàn><bookstore,bookshop><Lesson17>
+<想><xiǎng><to think,think,to want to,want to><Lesson17>
+<汉英><hàn-yīng><chinese-english,chinese english><Lesson17>
+<坐><zuò><to travel by,travel by><Lesson17>
+<哜><jǐ><crowded,to squeeze,squeeze><Lesson17>
+<骑><qí><to ride,ride><Lesson17>
+<行><xíng><all right,ok,OK,allright><Lesson17>
+<门><mén><classifier for subjects in school,classifier><Lesson17>
+<课><kè><lesson,course,class><Lesson17>
+<综合><zōnghé><comprehensive><Lesson17>
+<口语><kǒuyǔ><spoken language,language><Lesson17>
+<听力><tīnglì><listening,hearing><Lesson17>
+<阅读><yuèdú><reading,read><Lesson17>
+<文化><wénhuà><culture><Lesson17>
+<体育><tǐyù><physical training,PE><Lesson17>
+<教><jiāo><to teach,teach><Lesson17>
+Lesson18
+<包裹><bāoguǒ><packet; parcel,parcel,package><Lesson18>
+<顺便><shùnbiàn><on the way,conveniently><Lesson18>
+<替><tì><for><Lesson18>
+<邮票><yóupiào><stamp><Lesson18>
+<份><fèn><classifier for newspapers,classifier><Lesson18>
+<青年><qīngnián><youth><Lesson18>
+<报><bào><newspaper><Lesson18>
+<报纸><bàozhǐ><newspaper><Lesson18>
+<拿><ná><to take,to get,take,get><Lesson18>
+<不用><bùyòng><need not,unneccessarily><Lesson18>
+<用><yòng><to use,use><Lesson18>
+<旅行><lǚxíng><to travel,travel><Lesson18>
+<代表><dàibiǎo><representative,to represent,represent><Lesson18>
+<团><tuán><delegation;mass,delegation,mass><Lesson18>
+<参观><cānguān><to visit,visit><Lesson18>
+<当><dāng><to be;to serve as,to be,to serve as,be,serve as><Lesson18>
+<翻译><fānyì><interpreter,to interpret,interpret><Lesson18>
+<飞机><fēijī><airplane,plane><Lesson18>
+<飞><fēi><to fly,fly><Lesson18>
+<火车><huǒchē><train><Lesson18>
+<回来><huílái><to come back,come back,return><Lesson18>
+<办><bàn><to handle,handle><Lesson18>
+<帮><bāng><to help,help><Lesson18>
+<浇><jiāo><to water,water,pour><Lesson18>
+<花><huā><flower><Lesson18>
+<没问题><méi wèntí><no problem><Lesson18>
+<问题><wèntí><question,problem><Lesson18>
+<上海><shànghǎi><Shanghai,shanghai><Lesson18>
+<珍妮><zhēnnī><Janet,janet><Lesson18>
+Lesson19
+<羽绒服><yǔróngfú><down jacket><Lesson19>
+<又...又...><yòu...yòu...><not only...but also><Lesson19>
+<便宜><piányi><cheap; inexpensive,inexpensive,cheap><Lesson19>
+<长><cháng><long><Lesson19>
+<一点儿><yìdiǎnr><a bit,a little,little><Lesson19>
+<短><duǎn><short><Lesson19>
+<深><shēn><dark (color); deep,dark,deep><Lesson19>
+<浅><qiǎn><light (color); shallow,light,shallow><Lesson19>
+<试><shì><to try,try><Lesson19>
+<可以><kěyǐ><can,may><Lesson19>
+<当然><dāngrán><certainly,of course,without doubt><Lesson19>
+<肥><féi><fat,loose><Lesson19>
+<胖><pàng><fat><Lesson19>
+<瘦><shòu><thin,tight><Lesson19>
+<合适><héshì><fit,suitable><Lesson19>
+<好看><hǎokàn><good-looking,pretty><Lesson19>
+<种><zhǒng><kind (race),kind,type><Lesson19>
+<打折><dǎzhé><to sell at discount,to give a discount,REA,rea><Lesson19>
+Lesson20
+<年><nián><year><Lesson20>
+<今年><jīnnián><this year><Lesson20>
+<明年><míngnián><next year><Lesson20>
+<后年><hòunián><the year after next,year after next,year+2><Lesson20>
+<去年><qùnián><last year><Lesson20>
+<毕业><bìyè><to graduate,graduate><Lesson20>
+<多><duō><how; how much,how,how much><Lesson20>
+<多大><duōdà><how old><Lesson20>
+<岁><suì><...years old,years><Lesson20>
+<属><shǔ><to be born in the year of,be born in the year of,born in the year of><Lesson20>
+<狗><Gǒu><dog><Lesson20>
+<月><yuè><month><Lesson20>
+<号><hào><date in month><Lesson20>
+<生日><shēngrì><birthday><Lesson20>
+<正好><zhènghǎo><happen to; just right,happen to,just right><Lesson20>
+<打算><dǎsuan><to intend; plan,plan,to intend,intend><Lesson20>
+<过><guò><celebrate,spend,pass,to spend,to pass><Lesson20>
+<准备><zhǔnbèi><to prepare,prepare><Lesson20>
+<举行><jǔxíng><hold><Lesson20>
+<晚会><wǎnhuì><evening party,party><Lesson20>
+<参加><cānjiā><to join,join,to participate,participate,take part in><Lesson20>
+<时间><shíjiān><time><Lesson20>
+<点钟><diǎnzhōng><o'clock,oclock><Lesson20>
+<就><jiù><exactly,precisely><Lesson20>
+<一定><yídìng><surely,definitely,certainly><Lesson20>
+<祝><zhù><to wish,wish><Lesson20>
+<快乐><kuàilè><happy,joyful,cheerful><Lesson20>
+<祝你生日><zhù ní shēngrì><happy birthday to you,happy birthday><Lesson20>
+Lesson21
+<每><měi><every,each><Lesson21>
+<早上><zǎoshang><morning><Lesson21>
+<半><bàn><half><Lesson21>
+<起床><qǐchuáng><to get up,get up><Lesson21>
+<床><chuáng><bed><Lesson21>
+<早饭><zǎofàn><breakfast><Lesson21>
+<午饭><wǔfàn><lunch><Lesson21>
+<晚饭><wǎnfàn><dinner,supper><Lesson21>
+<以后><yǐhòu><after; afterwards,after,afterwards><Lesson21>
+<差><chā><to fall short of,short><Lesson21>
+<分(钟),分钟><fēnzhōng><minute><Lesson21>
+<上课><shàngkè><attend class,go to class,to go to class><Lesson21>
+<节><jié><classifier for class,classifier><Lesson21>
+<教室><jiàoshì><classroom><Lesson21>
+<操场><cāochǎng><playground,sports ground><Lesson21>
+<锻炼><duànliàn><physical exercise,work out><Lesson21>
+<洗澡><xízǎo><take a shower,bathe,to take a shower,to bathe,shower,to shower><Lesson21>
+<洗><xǐ><to wash,wash><Lesson21>
+<然后><ránhòu><then,afterwards><Lesson21>
+<睡觉><shuìjiào><to sleep,sleep><Lesson21>
+<爬><pá><to climb,climb><Lesson21>
+<们><men><suffix expressing plural,suffix,plural><Lesson21>
+<山><shān><mountain,hill><Lesson21>
+<年级><niánjí><grade><Lesson21>
+<出发><chūfā><to start out,start,set out><Lesson21>
+<前><qián><front><Lesson21>
+<集合><jíhé><to assemble,assemble><Lesson21>
+<刻><kè><quarter><Lesson21>
+<上车><shàng chē><to get on a bus,get on a bus,get on><Lesson21>
+<下车><xià chē><to get off a bus,get off a bus,get off><Lesson21>
+<准时><zhǔnshí><punctual,on time><Lesson21>
+<带><dài><to take,to bring,to carry,take,bring,carry><Lesson21>
+<山本><Shānběn><Yamahon(name of a Japanese),yamahon><Lesson21>
+Lesson22
+<叫><jiào><call,to call,to name><Lesson22>
+<让><ràng><to let,to ask,let,ask><Lesson22>
+<大家><dàjiā><everybody,all><Lesson22>
+<谈><tán><to talk about,talk><Lesson22>
+<自己><zìjǐ><self,oneself><Lesson22>
+<爱好><àihào><hobby,to like><Lesson22>
+<京剧><jīngjù><beijing opera,peking opera><Lesson22>
+<喜欢><xǐhuan><to like,like><Lesson22>
+<非常><fēicháng><very><Lesson22>
+<唱><chàng><to sing,sing><Lesson22>
+<玩><wán><to play with,play with><Lesson22>
+<电脑><diànnǎo><computer><Lesson22>
+<下课><xiàkè><class is over,end of class><Lesson22>
+<感到><gǎndào><to feel,feel,to sense,sense><Lesson22>
+<心情><xīnqíng><state of mind;mood,state of mind,frame of mind,mood><Lesson22>
+<愉快><yúkuài><happy,joyful,cheerful><Lesson22>
+<业余><yèyú><spare time><Lesson22>
+<以前><yǐqián><before,past><Lesson22>
+<就><jiù><as early as,already><Lesson22>
+<对><duì><with regard to,concerning><Lesson22>
+<书法><shūfǎ><calligraphy><Lesson22>
+<特别><tèbié><specially,particularly><Lesson22>
+<感兴趣><gǎnxìngqù><to be interested in,be interested in><Lesson22>
+<兴趣><xìngqù><interest><Lesson22>
+<派><pài><to send,to dispatch,send,dispatch><Lesson22>
+<高兴><gāoxìng><glad,happy,cheerful><Lesson22>
+<画><huà><to draw,to paint,draw,paint><Lesson22>
+<画儿><huàr><picture,drawing><Lesson22>
+<田中><Tiánzhōng><Tanaka,tanaka><Lesson22>
+Lesson23
+<边><biān><side><Lesson23>
+<东边><dōngbian><in the east,east><Lesson23>
+<西边><xībian><in the west,west><Lesson23>
+<南边><nánbian><in the south,south><Lesson23>
+<北边><běibian><in the north,north><Lesson23>
+<前边><qiánbiān><in the front,front><Lesson23>
+<后边><hòubian><at the back,back,behind><Lesson23>
+<左边><zuǒbian><on the left,left><Lesson23>
+<右边><yòubian><on the right,right><Lesson23>
+<里边><lǐbian><inside><Lesson23>
+<外边><wàibian><outside><Lesson23>
+<上边><shàngbian><above,over><Lesson23>
+<下边><xiàbiɑn><under,below><Lesson23>
+<离><lí><from><Lesson23>
+<远><yuǎn><far,distant><Lesson23>
+<近><jìn><near,close><Lesson23>
+<地方><dìfang><place><Lesson23>
+<足球场><zúqiúchǎng><football field><Lesson23>
+<足球><zúqiú><football><Lesson23>
+<劳驾><láojià><excuse me,would you please><Lesson23>
+<打听><dǎting><ask about><Lesson23>
+<博物馆><bówùguǎn><museum><Lesson23>
+<和平><hépíng><peace><Lesson23>
+<广场><guǎngchǎng><square><Lesson23>
+<中间><zhōngjiān><middle><Lesson23>
+<从><cóng><from><Lesson23>
+<到><dào><to arrive,arrive,to reach,reach><Lesson23>
+<米><mǐ><metre,meter><Lesson23>
+<一直><yìzhí><straight(direction),straight><Lesson23>
+<红绿灯><hōnglúdēng><traffic light><Lesson23>
+<绿><lǜ><green><Lesson23>
+<灯><dēng><lamp; light,lamp,light><Lesson23>
+<往><wǎng><towards,to><Lesson23>
+<左><zuǒ><left,to the left,to the left side><Lesson23>
+<右><yòu><right,to the right,to the right side><Lesson23>
+<拐><guǎi><to turn,turn><Lesson23>
+<马路><mǎlù><road; street,road,street><Lesson23>
+<路><lù><road><Lesson23>
+<座><zuò><classifier for mountain; building etc,classifier><Lesson23>
+<白色><báisè><white><Lesson23>
+Lesson24
+<会><huì><can,to be able to><Lesson24>
+<打><dǎ><to play,play><Lesson24>
+<太极拳><tàijíquán><shadow boxing,taiji,taichi><Lesson24>
+<听说><tīngshuō><to hear about,hear><Lesson24>
+<下><xià><next(week),next><Lesson24>
+<报名><bàomíng><to register,register,sign up><Lesson24>
+<开始><kāishǐ><to begin,begin><Lesson24>
+<能><néng><can,be able to><Lesson24>
+<再><zài><again,once more><Lesson24>
+<遍><biàn><one time,once through><Lesson24>
+<懂><dǒng><to understand,understand><Lesson24>
+<舒服><shūfu><comfortable><Lesson24>
+<意思><yìsi><meaning><Lesson24>
+<次><cì><times><Lesson24>
+<小时><xiǎoshí><hour><Lesson24>
+<请假><qǐngjià><to ask for a leave,ask for leave><Lesson24>
+<头疼><tóuténg><headache><Lesson24>
+<头><tóu><head><Lesson24>
+<疼><téng><to ache,ache><Lesson24>
+<发烧><fāshāo><to have a temperature,fever,have a temperature><Lesson24>
+<可能><kěnéng><perhaps,probably><Lesson24>
+<咳嗽><késou><to cough,cough><Lesson24>
+<感冒><gǎnmào><catch a cold,to catch a cold><Lesson24>
+<了><lè><modal indicating change,particle><Lesson24>
+<看病><kànbìng><to see a doctor,see a doctor><Lesson24>
+<病><bìng><illness,to be sick,be sick,sick><Lesson24>
+Lesson25
+<电视台><diànshìtái><television station,tv station><Lesson25>
+<台><tái><station><Lesson25>
+<表演><biǎoyǎn><to act,act,to perform,perform><Lesson25>
+<节目><jiémù><program><Lesson25>
+<愿意><yuànyì><to be willing,be willing,to wish,wish,to like,like><Lesson25>
+<为什么><wèishénme><why><Lesson25>
+<得><de><indicates compliment of result or degree,compliment><Lesson25>
+<不错><bǔ cuò><not bad,pretty good><Lesson25>
+<错><cuò><wrong><Lesson25>
+<进步><jìnbù><improve,advance,to make a progress,make progress><Lesson25>
+<水平><shuǐpíng><level,standard><Lesson25>
+<提高><tígāo><to improve,to raise,improve,raise><Lesson25>
+<快><kuài><fast,quick,quickly,rapid><Lesson25>
+<哪里><nǎli><i am flattered,i feel flattered,im flattered><Lesson25>
+<准><zhǔn><accurate><Lesson25>
+<流利><liúlì><fluent><Lesson25>
+<努力><nǔlì><work hard><Lesson25>
+<认真><rènzhēn><serious,earnest,conscientious><Lesson25>
+<看><kàn><consider,judge><Lesson25>
+<为><wèi><for the sake of,for><Lesson25>
+<这么><zhème><so,like this><Lesson25>
+<那么><nàme><that,like that><Lesson25>
+<早><zǎo><early><Lesson25>
+<运动><yùndòng><to do exercises,do exercises><Lesson25>
+<跑步><pǎobù><to run,run,to jog,jog><Lesson25>
+<跑><pǎo><to run,run><Lesson25>
+<篮球><lánqiú><basketball><Lesson25>
+<球><qiú><ball><Lesson25>
+<刚才><gāngcái><just now><Lesson25>
+<可以><kěyǐ><pretty good,not bad,passable><Lesson25>
+<坚持><jiānchí><to insist on,to persist in,insist on,persist in><Lesson25>
+<因为><yīnwèi><because><Lesson25>
+<晚><wǎn><late><Lesson25>
+Lesson 26
+<喂><Wèi><hello><Lesson26>
+<阿姨><Āyí><aunt><Lesson26>
+<中学><Zhōngxué><middle school><Lesson26>
+<出国><Chūguó><to go abroad,go abroad><Lesson26>
+<出><Chū><to proceed from inside to outside,move out><Lesson26>
+<打(电话),打电话><Dǎ diànhuà><to make a phonecall,make a phonecall,make a call,call><Lesson26>
+<关机><Guānjī><to turn off your mobile phone,turn off your mobile,turn off mobile><Lesson26>
+<关><Guān><to turn off; to switch off,to turn off,turn off,to switch off,switch off><Lesson26>
+<对了><Duì le><oh yes><Lesson26>
+<忘><Wàng><to forget,forget><Lesson26>
+<开机><Kāijī><to turn on your mobile phone,turn on your mobile,turn on mobile><Lesson26>
+<开><Kāi><to turn on;to open;to drive,to turn on,turn on,to open,open,to drive,drive><Lesson26>
+<又><Yòu><again><Lesson26>
+<响><Xiǎng><to make a sound,make a sound><Lesson26>
+<接><Jiē><to get; to receive,to get,get,to receive,receive><Lesson26>
+<踢><Tī><to kick; to play(football),to kick,kick,to play,play><Lesson26>
+<比赛><Bǐsài><to match; to contest; game,to match,match,to contest,contest,game,competition><Lesson26>
+<队><Duì><team><Lesson26>
+<输><Shū><to lose(a game),to lose,lose><Lesson26>
+<赢><Yíng><to win,win><Lesson26>
+<比><Bǐ><(of a score) to,to><Lesson26>
+<祝贺><Zhùhè><to congratulate,congratulate><Lesson26>
+<哎><Āi><(interjection),interjection><Lesson26>
+<上><Shàng><to attend,attend><Lesson26>
+<托福><Tuōfú><TOEFL (language test),TOEFL,toefl><Lesson26>
+<已经><Yǐjīng><already><Lesson26>
+<考><Kǎo><to take (a test),to take,take><Lesson26>
+<陪><Péi><to accompany,accompany><Lesson26>
+Lesson 27
+<了><Le><particle (read the book...),particle><Lesson27>
+<病人><Bìngrén><patient><Lesson27>
+<肚子><Dùzi><belly; abdomen,belly,abdomen><Lesson27>
+<厉害><Lìhài><intensive; severe,intensive,severe><Lesson27>
+<片><Piàn><classifier for slices,classifier><Lesson27>
+<拉肚子><Lādùzi><diarrhea,to have loose bowels,have loose bowels><Lesson27>
+<鱼><Yú><fish><Lesson27>
+<牛肉><Niúròu><beef,cow meat><Lesson27>
+<化验><Huàyàn><to test,test><Lesson27>
+<大便><Dàbiàn><faeces,to defecate,defecate><Lesson27>
+<小便><Xiǎobiàn><urine,to urinate,urinate><Lesson27>
+<检查><Jiǎnchá><to examine; to check up,to examine,examine,to check up,check up><Lesson27>
+<结果><Jiéguǒ><result><Lesson27>
+<出来><Chūlái><to come into sight; to materialize,to come into sight,come into sight,to materialize,materialize><Lesson27>
+<得><De><to suffer from,suffer from><Lesson27>
+<肠炎><Chángyán><enteritis><Lesson27>
+<消化><Xiāohuà><to digest,digest><Lesson27>
+<开(药),开药><Kāi(yào)><to prescribe (medicine),to prescribe,prescribe><Lesson27>
+<打针><Dǎzhēn><to give or have an injection,to give an injection,give an injection,to have an injection,have an injection><Lesson27>
+<后><Hòu><after; behind,after,behind><Lesson27>
+<哭><Kū><to cry; to weep,to cry,cry,to weep,weep><Lesson27>
+<寂寞><Jìmò><lonely><Lesson27>
+<所以><Suǒyǐ><therefore><Lesson27>
+<别><Bié><don't; had better not,don't,dont,had better not><Lesson27>
+<难过><Nánguò><feeling bad; unhappy,feeling bad,unhappy><Lesson27>
+<礼堂><Lǐtáng><auditorium><Lesson27>
+<舞会><Wǔhuì><ball><Lesson27>
+<跳舞><Tiàowǔ><to dance,dance><Lesson27>
+
+Nerd
+<局域网><jú yù wǎng><Local Area Network,LAN,lan><Nerd>
+<电脑><diànnǎo><computer><Nerd>
+<笔记本电脑><bǐjìběn diànnǎo><laptop><Nerd>
+<上网本><shàngwǎngběn><netbook><Nerd>
+<程序员><chéngxùyuán><programmer><Nerd>
+<工程师><gōngchéngshī><engineer><Nerd>
+<因特网><yīntèwǎng><The Internet,Internet,internet><Nerd>
+<网吧><wǎngbā><Internet café,internet cafe,net cafe,netcafe><Nerd>
+<域名><yùmíng><domain name><Nerd>
+<焊><hàn><to solder; to weld,to solder,solder,to weld,weld><Nerd>
+<软件><ruǎnjiàn><software><Nerd>
+<电脑游戏><diànnǎo yóuxì><copmuter game,game><Nerd>
+<电子游戏><diànzǐ yóuxì><video game,videogame,game><Nerd>
+<日本漫画><rìběn mànhuà><japanese manga,manga><Nerd>
+<子画面图形><zǐ huà miàn tú xíng><sprite graphics><Nerd>
+<科学><kēxué><science><Nerd>
+<李纳斯·托沃兹><lǐnàsī · tuōw zī><Linus Torvalds,linus torvalds><Nerd>
+<科幻小说><kēhuàn xiǎoshuō><sciencefiction,science fiction,scifi><Nerd>
+<哲学><zhéxué><philosophy><Nerd>
+<爱好><àihào><hobby><Nerd>
+<功夫><gōng fū><kungfu><Nerd>
+<武术><wǔshù><chinese martial arts,martial arts,wushu><Nerd>
+<气功><qìgōng><qigong><Nerd>
+<剑><jiàn><sword><Nerd>
+<八极拳><bājíquán><Bajiquan; a Chinese martial art,bajiquan><Nerd>
+<太空><tàikōng><space><Nerd>
+<星际飞船><xīngjìfēichuán><spaceship><Nerd>
+<战士><zhànshì><warrior,soldier><Nerd>
+<魔术师,眩人><móshùshī,xuànrén><wizard,magician,conjurer><Nerd>
+<忍者><rěnzhě><ninja,shinobi><Nerd>
+<丧尸><sāngshī><zombie><Nerd>
+<海盗><hǎidào><pirate,corsair><Nerd>
+<龙><lóng><dragon><Nerd>
+<机器人><jīqìrén><robot><Nerd>
+<历史><lìshǐ><history><Nerd>
+<外星人><wàixīngrén><alien (from space),alien><Nerd>
+<阴阳><yīn yáng><yin and yang><Nerd>
+<风水><fēngshuǐ><fengshui; Chinese geomancy,fengshui,geomancy><Nerd>
+<李書文><lǐ shūwén><Li Shuwen; a Bajiquan master,Li Shuwen,li shuwen,god of spear><Nerd>
+END

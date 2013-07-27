@@ -1,0 +1,48 @@
+###############################
+Kinglo 2 v0.5
+This is a work in progress. 
+##############################
+
+How to install:
+Extract the files in this folder to your sdcard root dir, reboot your eee note and follow the instructions.
+
+dvt_check will install the application and create a new icon.
+if you already have Kinglo installed, please rename and use dvt_check_UPGRADE.
+
+The "glosa.txt" format.
+
+Language 1, Description/pronounciation, Language 2, Tags
+<LANGUAGE1><DESCRIPTION/PRONOUNCIATION><LANGUAGE2><TAGS>
+
+Example:
+<cat><An animal><katt><><Animals,Pets>
+<dog><An animal><hund><><Animals,Pets>
+<chair><><stol><Other>
+<cow><An animal><ko,kossa,tjur><Animals>
+
+
+Changelog:
+
+0.5
+Fixed known bugs.
+Added alot of content.
+Application will not hang or crash any more.
+When you are done, you will return to the main menu of the application.
+Improved sentence mode, added check for right placement.
+
+Alpha2
+Added new mode: Sentence, you can now rebuild scrambled sentences!
+Added about 100 sentences, sentences for (lesson 1,2,3,4,5,6,7,8,9,10,11,20,21)
+Added about 100 new words now over 600 words! (lesson 1 to 25)
+Application now runs in fullscreen, but top 25px is hidden behind the status bar :(
+
+Alpha1
+It works! -ish..
+
+ToDo: 
+Port espeek, to enable speaking!
+fix hidden top problem
+add all sentences and the rest of the words.
+implement tunes mode.
+implement simple RPG, a little adventure for each lesson :D
+invent the time machine, so i can get time to do this.

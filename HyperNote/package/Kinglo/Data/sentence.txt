@@ -1,0 +1,277 @@
+//Lesson01
+<你,好><nǐ,hǎo><Hello><Lesson01>
+<再,见><Zài,jiàn><Goodbye><Lesson01>
+//Lesson02
+<你,忙,吗,？><nǐ,máng,ma,?><Are you busy?><Lesson02>
+<很,忙><hěn,máng><Very busy><Lesson02>
+<汉语,难,吗,？><Hànyǔ,nán,ma,?><Is chinese hard?><Lesson02>
+<不,太,难><bù,tài,nán><Not too hard><Lesson02>
+//Lesson03
+<你,学,英语,吗,?><nǐ,xué,Yīngyǔ,ma,?><Do you study English?><Lesson03>
+<不,.,我,学,汉语><bù,.,wǒ,xué,Hànyǔ><No I study Chinese><Lesson03>
+<去,北京,吗,?><qù,Běijīng,ma,?><Will you go to Beijing?><Lesson03>
+<你,去,邮局,寄,信,吗,？><nǐ,qù,yóujú,jì,xìn,ma,?><Will you go to the postoffice and send a letter?><Lesson03>
+<不,去,.,我,去,银行,取,钱><bù,qù,.,wǒ,qù,yínháng,qǔ,qián><I will not go. I will go to the bank and draw money><Lesson03>
+//Lesson04
+<今天,星期,几,?><jīntiān,xīngqí,jǐ,?><What day is it today?><Lesson04>
+<今天,星期,三><jīntiān,xīngqí,sān><It's wednesday today><Lesson04>
+<你,去,哪儿,?><nǐ,qù,nǎr,?><Where will you go?><Lesson04>
+<我,去,天安门,，,你,去,不,去,？><wǒ,qù,tiānānmén,，,nǐ,qù,bù,qù,?><I will go to tiananmen， will you come?><Lesson04>
+<不,去,，,我,回,学校><bù,qù,，,wǒ,huí,xuéxiào><No， I will go back to school><Lesson04>
+//Lesson05
+<这,是,王,老师,，,这,是,我,爸爸><zhè,shì,Wáng,lǎoshī,，,zhè,shì,wǒ,bàba><This is teacher Wang， this is my dad><Lesson05>
+<王,老师,，,你,好><Wáng,lǎoshī,，,nǐ,hǎo><Teacher Wang， hello!><Lesson05>
+<您,好,!,请,进,!,请,坐,!,请,喝,茶,!><nín,hǎo,!,qǐng,jìn,!,qǐng,zuò,!,qǐng,hē,chá,!><Hello! please enter， have a seat and drink tea!><Lesson05>
+<工作,忙,吗,?><gōngzuò,máng,ma,?><Busy at work?><Lesson05>
+<不,太,忙><bù,tài,máng><Not so busy><Lesson05>
+<身体,好,吗,？><shēntǐ,hǎo,ma,?><How do you feel?><Lesson05>
+<很,好,!><hěn,hǎo,!><Very good!><Lesson05>
+//Lesson06
+<请问,，,你,贵姓,?><qǐngwèn,，,nǐ,guìxìng,?><Excuse me， may I know your name?><Lesson06>
+<我,姓,张><wǒ,xìng,Zhāng><My name is Zhāng><Lesson06>
+<你,叫,什么,名字,?><nǐ,jiào,shénme,míngzì,?><What is your full name?><Lesson06>
+<我,叫,张,东><wǒ,jiào,Zhāng,Dōng><My name is Zhāng Dōng><Lesson06>
+<你,是,哪,国,人,？><nǐ,shì,nǎ,guó,rén,?><From what country do you come?><Lesson06>
+<我,是,中国,人,.,你,是,哪,国,人,?><wǒ,shì,zhōngguó,rén,.,nǐ,shì,nǎ,guó,rén,?><I am a Chinese. where are you from?><Lesson06>
+<我,是,美国,人><wǒ,shì,měiguó,rén><I am American><Lesson06>
+<你,学习,什么,？><nǐ,xuéxí,shénme,?><What do you study?><Lesson06>
+<我,学习,汉语><wǒ,xuéxí,hànyǔ><I study Chinese><Lesson06>
+<汉语,难,吗,？><Hànyǔ,nán,ma,?><Is Chinese hard?><Lesson06>
+<汉字,很,难,，,发音,不,太,难><hànzì,hěn,nán,，,fāyīn,bù,tài,nán><Chinese characters is difficult， pronunciation is not too difficult.><Lesson06>
+<这,是,什么,?><zhè,shì,shénme,?><What is that?><Lesson06>
+<这,是,书><zhè,shì,shū><This is the book><Lesson06>
+<这,是,什么,书,？><zhè,shì,shénme,shū,?><What kind of book is it?><Lesson06>
+<这,是,中文,书><zhè,shì,zhōngwén,shū><This is a Chinese book><Lesson06>
+<这,是,谁,的,书,？><zhè,shì,shuí,de,shū,?><Whose book is it?><Lesson06>
+<这,是,老师,的,书><zhè,shì,lǎoshī,de,shù><This is the teachers book><Lesson06>
+<那,是,杂志><nà,shì,zázhì><That is a magazine><Lesson06>
+<那,是,什么,杂志,？><nà,shì,shénme,zázhì,?><What kind of magazine is that?><Lesson06>
+<那,是,英文,杂志><nà,shì,Yīngwén,zázhì><That is a English magazine><Lesson06>
+<那,是,谁,的,杂志,？><nà,shì,shuí,de,zázhì,?><Whose magazine is it?><Lesson06>
+<那,是,我,朋友,的,杂志><nà,shì,wǒ,péngyǒu,de,zázhì><That is my friends magazine><Lesson06>
+//Lesson07
+<中午,你,去,哪儿,吃,饭,？><zhōngwǔ,nǐ,qù,nǎr,chī,fàn,?><Where will you go and eat this afternoon?><Lesson07>
+<我,去,食堂><wǒ,qù,shítáng><I will go to the dininghall><Lesson07>
+<你,吃,什么,？><nǐ,chī,shénme,?><what do you eat?><Lesson07>
+<我,吃,馒头><wǒ,chī,mántou><I eat steamed bread><Lesson07>
+<你,要,几,个,？><nǐ,yào,jǐ,gè,?><Do you want?><Lesson07>
+<一,个,.,你,吃,吗,？><yī,gè,.,nǐ,chī,ma,?><I want one. Do you also want one?><Lesson07>
+<不,吃,，,我,吃,米饭,.,你,喝,什么,？><bù,chī,，,wǒ,chī,mǐfàn,.,nǐ,hē,shénme,?><No， I eat rice. What do you want to drink?><Lesson07>
+<我,要,一,碗,鸡蛋,汤,.,你,喝,吗,？><wǒ,yào,yī,wǎn,jīdàn,tāng,.,nǐ,hē,ma,?><I want a bowl of egg soup. Do you want some?><Lesson07>
+<不,喝,，,我,喝,啤酒><bù,hē,，,wǒ,hē,píjiǔ><No， I will drink beer><Lesson07>
+<这些,是,什么,？><zhèxiē,shì,shénme,?><What are these?><Lesson07>
+<这,是,饺子,，,这,是,包子,，,那,是,面条><zhè,shì,jiǎozi,，,zhè,shì,bāozi,，,nà,shì,miàntiáo><This is dumplings， this is steamed bread and this is noodles><Lesson07>
+//Lesson08
+<你,买,什么,？><nǐ,mǎi,shénme,?><What do you want to buy?><Lesson08>
+<我,买,水果,。,苹果,一,斤,多少,钱,？><wǒ,mǎi,shuǐguǒ,.,píngguǒ,yī,jīn,duōshǎo,qián,?><I want to buy fruit， how much does 500g apples cost?><Lesson08>
+<三,块><sān,kuài><Three yuan><Lesson08>
+<三,块,？,太,贵,了,。,两,块,五,吧><sān,kuài,?,tài,guì,le,.,liǎng,kuài,wǔ,ba><Three yuan? Too expensive. 2,5 yuan thanks><Lesson08>
+<你,要,几,斤,？><nǐ,yào,jǐ,jīn,?><How many half Kg do you want?><Lesson08>
+<我,买,五,斤><wǒ,mǎi,wǔ,jīn><I will buy five half kilograms><Lesson08>
+<还,要,别的,吗,？><hái,yào,biéde,ma,?><Anything else?><Lesson08>
+<橘子,怎么,卖,?><Júzi,zěnme,mài,?><How much does the oranges cost?><Lesson08>
+<两,块><liǎng,kuài><two yuan><Lesson08>
+<要,两,斤,。,一共,多少,钱,？><yào,liǎng,jīn,.,yīgòng,duōshǎo,qián,?><What is the total cost if i add two halfkilograms of oranges?><Lesson08>
+<一共,十,六,块,五,毛,。,你,给,十,六,块,吧><yīgòng,shí,liù,kuài,wǔ,máo,.,nǐ,gěi,shí,liù,kuài,ba><Altogether 16yuan and 5 mao， but you can pay 16yuan.><Lesson08>
+<给,你,钱><gěi,nǐ,qián><give you money><Lesson08>
+<这,是,五,十,，,找,您,三,十,四,块><Zhè,shì,wǔ,shí,，,zhǎo,nín,sān,shí,sì,kuài><This is fifty，you got thirtyfour back><Lesson08>
+//Lesson09
+<下午,我,去,图书馆,，,你,去,不,去,？><xiàwǔ,wǒ,qù,túshūguǎn,，,nǐ,qù,bù,qù,?><This afternoon I will go to the library， are you coming?><Lesson09>
+<我,不,去,。,我,要,去,银行,换,钱><wǒ,bù,qù,.,wǒ,yào,qù,yínháng,huàn,qián><no， i will not. I will go to the bank to change money><Lesson09>
+<小姐,，,我,换,钱><xiǎojiě,，,wǒ,huàn,qián><Miss， I want to change money><Lesson09>
+<您,换,什么,钱,？><nín,huàn,shénme,qián,?><What do you want to change to?><Lesson09>
+<我,换,人民币><wǒ,huàn,rénmínbì><I want to change to Chinese yuan><Lesson09>
+<换,多少,？><huàn,duōshǎo,?><How much?><Lesson09>
+<二,百,美元><èr,bǎi,měiyuán><Two hundred dollars><Lesson09>
+<请,等,一会儿,。。。,先生,，,给,您,钱,。,请,叔叔><qǐng,děng,yīhuǐer,. . . ,xiānshēng,，,gěi,nín,qián,.,qǐng,shūshu><Please wait a moment. . . Sir， your money. Please Uncle><Lesson09>
+<对,了,。,谢谢,！><duì,le,.,xièxiè,!><Right. Thank you!><Lesson09>
+<不,客气><bù,kèqì><No problem><Lesson09>
+//Lesson10
+<请问,，,这,是,办公室,吗,？><qǐngwèn,，,zhè,shì,bàngōngshì,ma,?><May I ask， is this is the office?><Lesson10>
+<是,。,你,找,谁,？><shì,.,nǐ,zhǎo,shuí,?><Yes. Who are you looking for?><Lesson10>
+<王,老师,在,吗,？,我,是,他,的,学生><Wáng,lǎoshī,zài,ma,?,wǒ,shì,tā,de,xuéshēng><Is Wang in? I am his student><Lesson10>
+<他,不,在,。,他,在,家,呢><tā,bù,zài,.,tā,zài,jiā,ne><He is not in. He is at home><Lesson10>
+<他,住,哪儿,？><tā,zhù,nǎr,?><Where does he live?><Lesson10>
+<他,住,十八,楼,一,门,，,房间,号,是,601><tā,zhù,shíbā,lóu,yī,mén,，,fángjiān,hào,shì,601><He lives in building 18， first gate. His room number is 601><Lesson10>
+<您,知道,他,的,电话,号码,吗,？><nín,zhīdào,tā,de,diànhuà,hàomǎ,ma,?><You know his phone number?><Lesson10>
+<知道,，,62931074><Zhīdào,，,62931074><I know it, 62931074><Lesson10>
+<他,的,手机,号码,是,多少,？><tā,de,shǒujī,hàomǎ,shì,duōshǎo,?><What is his cellphone number?><Lesson10>
+<不,知道><bù,zhīdào><I do not know><Lesson10>
+<谢谢,您><xièxiè,nín><Thank you><Lesson10>
+<不,客气><bù,kèqì><You're welcome><Lesson10>
+//Lesson11
+<我,先,介绍,一下儿,，,这,位,是,王,教授,.,这,是,马,校长><Wǒ,xiān,jièshào,yīxiàr,，,zhè,wèi,shì,wáng,jiàoshòu,.,zhè,shì,mǎ,xiàozhǎng><Let me introduce you， this is Professor Wang. This is principal Ma.><Lesson11>
+<欢迎,您,，,王,教授><Huānyíng,nín,，,wáng,jiàoshòu><Welcome， Professor Wang><Lesson11>
+<你,是,留学生,吗,？><Nǐ,shì,liúxuéshēng,ma,?><Are you an exchange student?><Lesson11>
+<罗兰,也,是,留学生,吗,？><Luólán,yě,shì,liúxuéshēng,ma,?><Is Roland also an exchange student?><Lesson11>
+<她,也,是,留学生,，,我们,都,是,留学生,.><Tā,yě,shì,liúxuéshēng,，,wǒmen,dōu,shì,liúxuéshēng,.><She is also， we are both exchange students.><Lesson11>
+<张东,和,田芳,也,都,是,留学生,吗,？><Zhāng dōng,hé,tián fāng,yě,dōu,shì,liúxuéshēng,ma,?><Are Zhang Dong and Fang Tian also exchange students?><Lesson11>
+<不,，,他们,俩,不,是,留学生,。,他们,都,是,中国,学生,。><Bù,，,tāmen,liǎ,bù,shì,liúxuéshēng,.,Tāmen,dōu,shì,zhōngguó,xuéshēng,.><No， these two are not exchange students. They are Chinese students.><Lesson11>
+<他,是,中国,人,吗,？><Tā,shì,zhōngguó,rén,ma,?><Is he Chinese?><Lesson11>
+<你,也,是,中国,人,吗,？><Nǐ,yě,shì,zhōngguó,rén,ma,?><Are you also Chinese?><Lesson11>
+<不,是,。,我,是,韩国,人,。><Bù,shì,.,Wǒ,shì,hánguó,rén,.><No, I am Korean.><Lesson11>
+<对,不,起,。><Duì,bù,qǐ,.><I'm sorry.><Lesson11>
+<没,什,么,。><Méi,shén,me,.><Doesn't matter.><Lesson11>
+//Lesson12
+<你,在,哪儿,学习,汉语,？><nǐ,zài,nǎr,xuéxí,hànyǔ,?><Where are you learning Chinese?><Lesson12>
+<在,北京,语言,大学>< zài,běijīng,yǔyán,dàxué><In the Beijing Language and Culture University><Lesson12>
+<你们,的,老师,怎么样,？><nǐmen,de,lǎoshī,zěnmeyàng,?><How is your teacher?><Lesson12>
+<很,好,！><hěn,hǎo,!><Very good!><Lesson12>
+<你,觉得,学习,汉语,难,吗,？><nǐ,juéde,xuéxí,hànyǔ,nán,ma,?><Do you think learning Chinese is difficult?><Lesson12>
+<我,觉得,语法,不,太,难><wǒ,juéde,yǔfǎ,bù,tài,nán><I think the grammar is not very difficult><Lesson12>
+<听,和,说,也,比较,容易,，,但是,读,和,写,很,难><tīng,hé,shuō,yě,bǐjiào,róngyì,，,dànshì,dú,hé,xiě,hěn,nán><Listening and speaking is easy， but it is hard to read and write><Lesson12>
+// part 2
+<我,给,你们,介绍,一下儿,，,这,位,是,新,同学,，,是,我,的,同屋><wǒ,gěi,nǐmen,jièshào,yīxiàr,，,zhè,wèi,shì,xīn,tóngxué,，,shì,wǒ,de,tóngwū><I introduce a new student， my roommate><Lesson12>
+<你,在,哪,个,班,学习,？><nǐ,zài,nǎge,bān,xuéxí,?><Which class are you studying?><Lesson12>
+<在,103,班><zài,103,bān><In the 103 class><Lesson12>
+<你们,的,老师,是,谁,？><nǐmen,de,lǎoshī,shì,shuí,?><Who is your teacher?><Lesson12>
+<我们,的,老师,是,林,老师><wǒmen,de,lǎoshī,shì,lín,lǎoshī><Our teachers are Lin><Lesson12>
+
+//Lesson20
+<你,哪,一,年,大学,毕业,?><nǐ,nǎ,yī,nián,dàxué,bìyè,?><What year do you graduate from the University? ><Lesson20>
+<明年,。,你,呢,?><míngnián,.,nǐ,ne,?><Next year. You?><Lesson20>
+<我,后年,。,你,今年,多,大,?><wǒ,hòunián,.,nǐ,jīnnián,duō,dà,?><Next year. How old are you?><Lesson20>
+<我,二,十,一,岁><wǒ,èr,shí,yī,suì><I am twentyone years old.><Lesson20>
+<属,什么,的,?><shǔ,shénme,de,?><In what year are you born?><Lesson20>
+<属,狗,的><shǔ,gǒu,de><I'm bord in the year of the dog.><Lesson20>
+
+//part 2
+<你,的,生日,是,几,月,几,号,？><nǐ,de,shēngrì,shì,jǐ,yuè,jǐ,hào,?><When is your birthday?><Lesson20>
+<我,的,生日,是,十,月,十八,号,，,正好,是,星期六><wǒ,de,shēngrì,shì,shí,yuè,shíbā,hào,，,zhènghǎo,shì,xīngqí liù><my birthday is 18/10, its a saturday><Lesson20>
+<是,吗,？,你,打算,怎么,过,？><shì,ma,?,nǐ,dǎsuàn,zěnme,guò,?><Is it? How are you plan to celebrate?><Lesson20>
+<我,准备,举行,一,个,生日,晚会,。,你,也,来,参加,，,号,吗,？><wǒ,zhǔnbèi,jǔxíng,yī,gè,shēngrì,wǎnhuì,.,nǐ,yě,lái,cānjiā,，,hào,ma,?><I prepare to hold a evening party. Do you want to join?><Lesson20>
+<什么,时间,举行,？><shénme,shíjiān,jǔxíng,?><What time is it held?><Lesson20>
+<星期六,晚上,七,点><xīngqíliù,wǎnshàng,qī,diǎn><Saturday night at seven o'clock><Lesson20>
+<在,哪儿,?><zài,nǎr,?><Where?><Lesson20>
+<就,在,我,的,房间><jiù,zài,wǒ,de,fángjiān><In my room><Lesson20>
+<好,。,我,一定,去,。,祝,你,生日,快乐,！><hǎo,.,wǒ,yīdìng,qù,.,zhù,nǐ,shēngrì,kuàilè,!><Good. I will come. Happy birthday to you!><Lesson20>
+<谢谢,！><xièxiè,!><Thank you!><Lesson20>
+
+
+//Lesson21
+<我,每,天,早上,六,点,半,起,床,，,七,点,吃,早饭><wǒ,měi,tiān,zǎoshang,liù,diǎn,bàn,qǐ,chuáng,，,qī,diǎn,chī,zǎofàn><I get up every morning half past six， seven o'clock breakfast><Lesson21>
+
+<差,十,分,八,点,去,教室,，,八,点,上,课><chà,shí,fēn,bā,diǎn,qù,jiàoshì,，,bā,diǎn,shàng,kè><Seven fifty i go to the classroom， at eight o'clock the class begins><Lesson21>
+
+<上午,我们,有,四,节,课,，,十二,点,下,课><shàngwǔ,wǒmen,yǒu,sì,jié,kè,，,shíèr,diǎn,xià,kè><We have four classes I am， twelve o'clock class><Lesson21>
+
+<中午,我,去,食堂,吃,午饭><zhōngwǔ,wǒ,qù,shítáng,chī,wǔfàn><At noon I went to the cafeteria for lunch><Lesson21>
+
+<午饭,以后,，,我,常常,去,朋友,哪儿,聊,天儿><wǔfàn,yǐhòu,，,wǒ,chángcháng,qù,péngyǒu,nǎr,liáo,tiāner><After lunch， I often go to friends chatting><Lesson21>
+
+<下午,没有,课,的,时候,，,我,去,图书馆,看,书,，,或者,跟,中国,朋友,一起,练习,口语><xiàwǔ,méiyǒu,kè,de,shíhou,，,wǒ,qù,túshūguǎn,kàn,shū,，,huòzhě,gēn,zhōngguó,péngyǒu,yīqǐ,liànxí,kǒuyǔ><No In the afternoon i do not have classes， I go to the library to read， or to practice speaking with Chinese friends><Lesson21>
+
+<有,时候,在,宿舍,看,电影,光盘><yǒu,shíhou,zài,sùshè,kàn,diànyǐng,guāngpán><Sometimes a movie disc in the dormitory><Lesson21>
+
+<四,点,我,去,操场,锻炼,身体><sì,diǎn,wǒ,qù,cāochǎng,duànliàn,shēntǐ><I went to the playground four exercise><Lesson21>
+
+<五,点,回,宿舍,洗,澡,，,洗,衣服,，,六,点,半,或者,七,点,吃,晚饭><wǔ,diǎn,huí,sùshè,xǐ,zǎo,，,xǐ,yīfú,，,liù,diǎn,bàn,huòzhě,qī,diǎn,chī,wǎnfàn><Five dormitory shower， laundry， dinner at half past six or seven><Lesson21>
+
+<晚上,我,做,练习,，,写,汉字,，,预习,课文,和,生词,，,然后,看,看,电视,，,听听,音乐,十一,点,睡,觉><wǎnshàng,wǒ,zuò,liànxí,，,xiě,hànzì,，,yùxí,kèwén,hé,shēngcí,，,ránhòu,kàn,kàn,diànshì,，,tīngtīng,yīnyuè,shì,yīdiǎn,shuìjiào><Evening I practice writing Chinese characters， preview text， new words， and then watch TV， listen to music is a little sleep><Lesson21>
+
+//part2
+<同学们,，,明天,我们,去,爬,山><tóngxué,men,，,míngtiān,wǒmen,qù,páshān><Students， Tomorrow we'll go hiking><Lesson21>
+
+<太,好,了,！,老师,，,您,去,吗,？><tài,hǎo,le,!,lǎoshī,nín,qù,ma?><Great! Teacher， you go?><Lesson21>
+
+<去,。,一,年级,的,老师,和,学生,都,去><qù,.,yī,niánjí,de,lǎoshī,hé,xuéshēng,dōu,qù><Go. First grade teachers and students to go><Lesson21>
+
+<明天,什么,时候,出发,？><Míngtiān,shénme,shíhou,chūfā,?><Tomorrow to leave?><Lesson21>
+
+<明天,早上,七,点,在,楼,前,集合,上,车,，,七,点,一,刻,准时,出发><Míngtiān,zǎoshang,qī,diǎn,zài,lóu,qián,jíhé,shàng,chē,，,qī,diǎn,yīkè,zhǔnshí,chūfā><A collection of seven tomorrow morning on the train in front， quarter past seven on time><Lesson21>
+
+<中午,回来,吗,？><zhōngwǔ,huílái,ma?><Noon back?><Lesson21>
+
+<不,回来,，,要,带,午饭><bù,huílái,，,yào,dài,wǔfàn><Do not come back， to bring lunch><Lesson21>
+
+<什么,时候,回来,?><shénme,shíhou,huílái,?><When will we come back?><Lesson21>
+
+<下午,四,点><xiàwǔ,sì,diǎn><Four in the afternoon><Lesson21>
+
+//Lesson22
+<今天想请大家谈谈自己的爱好。谁先说？><Jīntiān xiǎng qǐng dàjiā tán tán zìjǐ de àihào. Shuí xiān shuō?><Today we would like to talk about their hobby. Whoever said that?><Lesson22>
+<老师，让我先说吧><Lǎoshī, ràng wǒ xiān shuō ba><Teacher, let me speak><Lesson22>
+<好，你说吧。你有什么爱好？><Hǎo, nǐ shuō ba. Nǐ yǒu shé me àihào?><Well, you say. What are your hobbies?><Lesson22>
+<我的爱好是看京剧><Wǒ de àihào shì kàn jīngjù><My hobby is to watch the Beijing opera><Lesson22>
+<你喜欢看京剧？><Nǐ xǐhuan kàn jīngjù?><Do you like the opera?><Lesson22>
+<是啊,非常喜欢。我还想学唱京剧,打算请一个老师教我><Shì a, fēicháng xǐhuan. Wǒ hái xiǎng xué chàng jīngjù, dǎsuàn qǐng yīgè lǎoshī jiào wǒ><Yes, ah, very much. I would like to learn to sing opera, I am going to ask a teacher><Lesson22>
+<麦克，你喜欢做什么？><Màikè, nǐ xǐhuan zuò shénme?><Mike, you like to do?><Lesson22>
+<我喜欢玩电脑><Wǒ xǐhuan wán diànnǎo><I like playing computer><Lesson22>
+<罗兰呢？><Luólán ne?><Roland do?><Lesson22>
+<我喜欢听音乐，下课以后，听听音乐或者跟朋友聊聊天儿，感到心情很愉快><Wǒ xǐhuan tīng yīnyuè, xiàkè yǐhòu, tīng tīng yīnyuè huòzhě gēn péngyǒu liáoliáo tiānr, gǎndào xīnqíng hěn yúkuài><I like listening to music, after class, listening to music or chat with friends, children, feel very happy mood><Lesson22>
+<田中业余时间常常做什么？><Tiánzhōng yèyú shíjiān chángcháng zuò shénme?><sTiánzhōng spare time often do?><Lesson22>
+<我来中国以前就对书法特别感兴趣><Wǒ lái zhōngguó yǐqián jiù duì shūfǎ tèbié gǎn xìngqù><I came to China before the particular interest of the calligraphy><Lesson22>
+<今年公司派我来中国，我非常高兴><Jīnnián gōngsī pài wǒ lái zhōngguó, wǒ fēicháng gāoxìng><This year the company sent me to China, I am very pleased><Lesson22>
+<现在我正跟以一个老师学书法，还学画中国画儿><Xiànzài wǒ zhèng gēn yǐ yīgè lǎoshī xué shūfǎ, hái xué huà zhōngguó huàr><Now I am a teacher with a calligraphy, Chinese painting children also studied painting><Lesson22>
+
+//Lesson23
+<学校里边有邮局吗？><Xuéxiào lǐbian yǒu yóujú ma?><There are post office inside the school do?><Lesson23>
+<有><Yǒu><Have><Lesson23>
+<邮局在哪儿？><Yóujú zài nǎr?><Where the post office?><Lesson23>
+<在图书馆西边><Zài túshū guǎn xībian><West of the library><Lesson23>
+<离这儿远吗？><Lí zhèr yuǎn ma?><Far from here it?><Lesson23>
+<不远。很近><Bù yuǎn. Hěn jìn><not far,very close><Lesson23>
+<图书馆东边是什么地方？><Túshūguǎn dōngbian shì shénme dìfāng?><What is to the east is of the library?><Lesson23>
+<图书馆东边是一个足球场><Túshūguǎn dōngbian shì yīgè zúqiú chǎng><To the east of the library is a football field><Lesson23>
+//part2
+<劳驾，我打听一下儿，博物馆在哪儿？><Láojià, wǒ dǎtīng yīxiàr, bówùguǎn zài nǎr?><Excuse me, I have learned about children, the museum where?><Lesson23>
+<博物馆在东边，在和平公园和人民广场中间><><><Lesson23>
+<离这儿有多远?><Lí zhèer yǒu duō yuǎn?><How far from here?><Lesson23>
+<从这儿到那儿大概有七八百米><Cóng zhèer dào nàer dàgài yǒu qī bā bǎi mǐ><From here to there, about seven or eight one hundred meters><Lesson23>
+<怎么走呢?><Zěnme zǒu ne?><How to get it?><Lesson23>
+<你从这儿一直往东走,到红绿灯那儿往左拐><Nǐ cóng zhèer yīzhí wǎng dōng zǒu, dào hónglǜdēng nàer wǎng zuǒ guǎi><You have to go east from here to where the traffic lights turn left><Lesson23>
+<马路东边有一座白色的大楼，那就是博物馆><Mǎlù dōngbian yǒu yīzuò báisè de dàlóu, nà jiùshì bówùguǎn><East of the road there is a white building that is museum><Lesson23>
+<谢谢您！><Xièxiè nín!><Thank you!><Lesson23>
+<不客气><Bù kèqì><you're welcome><Lesson23>
+
+//Lesson24
+<你会打太极拳吗？><Nǐ huì dǎ tàijí quán ma?><Can you do Tai chi><Lesson24>
+<不会。你呢？><Bù huì. Nǐ ne?><Not. You?><Lesson24>
+<我也不会。你想不想学？><Wǒ yě bù huì. Nǐ xiǎng bùxiǎng xué?>I can not. Do you want to learn?<><Lesson24>
+<想学><Xiǎng xué><Want to learn><Lesson24>
+<我也想学><Wǒ yě xiǎng xué><I also want to learn><Lesson24>
+<听说体育老师下星期教太极拳，我们去报名吧><Tīng shuō tǐyù lǎoshī xià xīngqí jiào tàijí quán, wǒmen qù bàomíng ba><I heard that physical education teacher to teach tai chi next week, we went to register it><Lesson24>
+<好><Hǎo><Good><Lesson24>
+//part2
+<老师，我们想学太极拳现在可以报名吗？><Lǎoshī, wǒmen xiǎng xué tàijí quán xiànzài kěyǐ bàomíng ma?><Teachers, we want to learn tai chi can now register?><Lesson24>
+<可以><Kěyǐ><Can><Lesson24>
+<什么时候开始上课？><Shénme shíhou kāishǐ shàngkè?><When did you start school?><Lesson24>
+<下星期一><Xià xīngqíyī><next monday><Lesson24>
+<每天下午都有课吗？><Měi tiān xiàwǔ dōu yǒu kè ma?><Every afternoon there classes?><Lesson24>
+<不，只一三五下午><Bù, zhǐ yī sān wǔ xiàwǔ><No,only 1 3 5 afternoon><Lesson24>
+<对不起，您能不能再说一遍？><Duìbùqǐ, nín néng bùnéng zàishuō yībiàn?><Sorry, you can say that again?><Lesson24>
+<我不懂一三五是什么意思><Wǒ bù dǒng yī sān wǔ shì shénme yìsi><I do not know what is the meaning of 1 3 5><Lesson24>
+<就是星期一，星期三，星期五><Jiùshì xīngqí yī, xīngqí sān, xīngqí wǔ><Is Monday, Wednesday, Friday><Lesson24>
+<从几点到几点上课？><Cóng jǐ diǎn dào jǐ diǎn shàngkè?><From a when to a when classes begin?><Lesson24>
+<四点半到五点半。一次一个小时><Sì diǎn bàn dào wǔ diǎn bàn. Yīcì yīgè xiǎoshí><Four-thirty to 5:30. 1x1 hour><Lesson24>
+<玛丽！。。。玛丽怎么没来？><Mǎlì! . . . Mǎlì zěnme méi lái?><Mary! . . . How Mary did not come?><Lesson24>
+<老师，玛丽让我给她请个假><Lǎoshī, mǎlì ràng wǒ gěi tā qǐng gè jiǎ><eacher, Mary, please let me give her a fake><Lesson24>
+<她今天有点儿不舒服，头疼，发烧，咳嗽，可能感冒了><Tā jīntiān yǒudiǎn er bú shūfú, tóuténg, fāshāo, késou, kěnéng gǎnmào le><She was a bit uncomfortable today, headache, fever, cough, cold may><Lesson24>
+<她要去医院看病，不能来上课><Tā yào qù yīyuàn kànbìng, bùnéng lái shàngkè><She was going to the hospital, can not come to class><Lesson24>
+
+//Lesson25
+<罗兰，电视台想请留学生表演一个汉语节目，你愿意去吗？><Luólán, diànshìtái xiǎng qǐng liúxué shēng biǎoyǎn yīgè hànyǔ jiémù, nǐ yuànyì qù ma?><Roland, television want please Students performances an Chinese programs, you willing go?><Lesson25>
+<老师，我不想去><Lǎoshī, wǒ bùxiǎng qù><Teacher, I do not want to go><Lesson25>
+<为什么？><Wèishéme?><Why?><Lesson25>
+<我汉语说的不好，也不会表演><Wǒ hànyǔ shuō de bù hǎo, yě bù huì biǎoyǎn><I speak Chinese well, it will not show><Lesson25>
+<你学得不错，有很大进步，汉语水平提高的很快><Nǐ xué dé bùcuò, yǒu hěn dà jìnbù, hànyǔ shuǐpíng tígāo de hěn kuài><You learn well, a lot of progress, improving the level of Chinese language quickly><Lesson25>
+<那里，我发音发得不准，说得也不流利><Nàlǐ, wǒ fāyīn fā dé bù zhǔn, shuō de yě bù liúlì><There, I was not allowed to send sounds, do not speak it fluently><Lesson25>
+<让玛丽去吧。她汉语学得很好，说得很流利><Ràng mǎlì qù ba. Tā hànyǔ xué de hěn hǎo, shuō de hěn liúlì><Let Mary go. She learned Chinese well fluently><Lesson25>
+<是吗？她京剧唱得怎么样？><Shì ma? Tā jīngjù chàng de zěnme yàng?><Is not it? How she sings opera?><Lesson25>
+<王老师说她唱得不错><Wáng lǎoshī shuō tā chàng de Bùcuò><><Lesson25>
+<她怎么学得这么好？><Tā zěnme xué de zhème hǎo?><How she learned so well?><Lesson25>
+<她非常努力，也很认真><Tā fēicháng nǔlì, yě hěn rènzhēn><She is very hard, and very serious><Lesson25>
+//part2
+<老师，您看她太极拳打得怎么样？><Lǎoshī, nín kàn tā tàijí quán dǎ de zěnme yàng?><Teacher, you see how well she played Tai Chi?><Lesson25>
+<打得不错><Dǎ dé bùcuò><Played a good><Lesson25>
+<为学太极拳，她每天都起得很早><Wéi xué tàijí quán, tā měi tiān dū qǐ de hěn zǎo><Tai Chi for the school, she got up early every day><Lesson25>
+<麦克，你喜欢什么运动？><Màikè, nǐ xǐhuan shénme yùndòng?><Mike, do you like sport?><Lesson25>
+<我喜欢跑步，打篮球><Wǒ xǐhuan pǎobù, dǎ lánqiú><I like running, playing basketball><Lesson25>
+<刚才我看你跑得很快。你篮球打得怎么样？><Gāngcái wǒ kàn nǐ pǎo de hěn kuài. Nǐ lánqiú dǎ de zěnme yàng?><I just see you run fast. How you play basketball?><Lesson25>
+<打得还可以。老师，您每天都来锻炼吗？><Dǎ de hái kěyǐ. Lǎoshī, nín měi tiān dū lái duànliàn ma?><To play well. Teacher, you are every day working out?><Lesson25>
+<对，我每天都坚持锻炼。你呢？><Duì, wǒ měi tiān dū jiānchí duànliàn. Nǐ ne?><Yes, I keep exercising every day. You?><Lesson25>
+<我不常锻炼，因为我晚上常常睡得很晚，早上起得也很晚><Wǒ bù cháng duànliàn, yīnwèi wǒ wǎnshàng chángcháng shuì de hěn wǎn, zǎoshang qǐ de yě hěn wǎn><I do not usually exercise, because I often sleep late at night, got up too late in the morning><Lesson25>
+
+
+
+//<晚上,我,做,练习,，,写,汉字,，,预习,课文,和,生词,，,然后,看,看,电视,，,听听,音乐,十一,点,睡,觉><wǎnshàng,wǒ,zuò,liànxí,，,xiě,hànzì,，,yùxí,kèwén,hé,shēngcí,，,ránhòu,kàn,kàn,diànshì,，,tīngtīng,yīnyuè,shìyī,diǎn,shuì,jiào><Evening I practice writing Chinese characters， preview text， new words， and then watch TV， listen to music is a little sleep><AA>

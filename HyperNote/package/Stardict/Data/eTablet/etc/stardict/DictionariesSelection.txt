@@ -1,0 +1,3 @@
+Englese-Italiano=unselected
+Italian-English=unselected
+Longman English=selected
