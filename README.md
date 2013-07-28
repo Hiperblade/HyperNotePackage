@@ -52,6 +52,14 @@ Originally posted on: <a href="http://forum.tabletpcreview.com/asus-eee-line/414
 	</tr>
 
 	<tr>
+		<td>Guitar template</td>
+		<td align="center">1.0</td>
+		<td>Templates for guitar tab</td>
+		<td>Hiperblade</td>
+		<td></td>
+	</tr>
+	
+	<tr>
 		<td>Lightweight</td>
 		<td align="center">1.0</td>
 		<td>A porting of a simple, tabbed browser</td>
@@ -99,6 +107,14 @@ Originally posted on: <a href="http://forum.tabletpcreview.com/asus-eee-line/414
 		<td><a href="http://labs.qt.nokia.com/2009/09/21/introducing-qmf-an-advanced-mobile-messaging-framework/">[Link]</a></td>
 	</tr>
 
+	<tr>
+		<td>QtPacker</td>
+		<td align="center">1.0</td>
+		<td>An GUI for Optware advanced package manager.<br/><b style="color:red">Is obsolete use the script in the link</b></td>
+		<td>mp035</td>
+		<td><a href="freeenote.org/downloads/installs/qtpacker.zip">[Link]</a></td>
+	</tr>
+	
 	<tr>
 		<td>Solitaire</td>
 		<td align="center">1.0</td>
